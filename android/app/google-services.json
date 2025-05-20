@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43644605158",
+    "project_id": "unvirsity-d384d",
+    "storage_bucket": "unvirsity-d384d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43644605158:android:2d4ba19d23b388cc3ea127",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHMwbkYKOmy8MaRCu0dEqPRZ52c1Q7abU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
